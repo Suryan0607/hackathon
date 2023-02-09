@@ -1,4 +1,4 @@
-const makeapi = "http://makeup-api.herokuapp.com/api/v1/products.json";
+const makeapi = "https://makeup-api.herokuapp.com/api/v1/products.json";
 
 
 
